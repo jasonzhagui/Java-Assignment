@@ -1,4 +1,3 @@
-//Jason Zhagui Homework 2
 package windowhomework;
 
 import javax.swing.*;
