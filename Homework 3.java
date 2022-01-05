@@ -1,4 +1,3 @@
-//Jason Zhagui Homework 2
 package buttonshomework;
 
 import javax.swing.*;
