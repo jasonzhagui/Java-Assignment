@@ -1,2 +1,2 @@
-# Java-Assignment
+# Java-Assignments
 Assignments from Java
