@@ -1,5 +1,3 @@
-//Jason Zhagui
-//Homework 4
 package client;
 import java.net.*;
 import java.io.*;
