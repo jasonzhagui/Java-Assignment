@@ -1,4 +1,3 @@
-//Jason Zhagui Homework 1
 package main;
 
 import java.util.Arrays;
