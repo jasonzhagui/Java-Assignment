@@ -1,5 +1,3 @@
-//Jason Zhagui
-//Homework 4
 package server;
 import java.io.*;
 import java.util.*;
